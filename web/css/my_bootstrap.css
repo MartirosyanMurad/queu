@@ -1,0 +1,9 @@
+.btn, .form-control{
+    border-radius: 0px;
+}
+h1.page_title{
+    font-size: 24px;
+}
+.submitAndLabel{
+    margin-top: 24px;
+}
